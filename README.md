@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi There !🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
 I'm Kush Aggarwal, Certified AWS professional currently working at Amazon Web Services over tools related to Devops. I am a Freelancer, Devops enthusiast and full stack developer
@@ -41,7 +41,7 @@ currently_learning: ["Docker, Kubernetes, Terraform, IaaS"]
   
 ---
 
-### 🤝🏻 Connect, Follow, Subscribe
+### 🤝🏻 Let's catch up
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kush-aggarwal-1b236717b/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kushagg08813071)
